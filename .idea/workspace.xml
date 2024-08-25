@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcdc06fc-0092-495e-85d0-b94a5f41fb27" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Welcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/techBlazers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/bank/AccountTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2kyShSFnh8PQ5i2pk4sgsmw1Ytf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Welcome.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.AccountTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AccountTest.BalanceIs2kAndWithdraw1kTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AccountTest.BalanceIs2kTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AccountTest.deposit2kAndBalanceIs2kTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AccountTest.depositMinus1kAndBalanceIs2kTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AccountTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AccountTest.newAccount_balanceIsZeroTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AccountTest.withdraw10kTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AccountTest.withdraw1kAndBalanceIs2kTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AccountTest.withdraw1kTest.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DELL/IdeaProjects/techBlazers/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="bank" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountTest.BalanceIs2kAndWithdraw1kTest">
+    <configuration name="AccountTest.BalanceIs2kAndWithdraw1kTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="techBlazers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bank" />
+      <option name="MAIN_CLASS_NAME" value="bank.AccountTest" />
+      <option name="METHOD_NAME" value="BalanceIs2kAndWithdraw1kTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.BalanceIs2kTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="techBlazers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bank" />
+      <option name="MAIN_CLASS_NAME" value="bank.AccountTest" />
+      <option name="METHOD_NAME" value="BalanceIs2kTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.withdraw10kTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="techBlazers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bank" />
+      <option name="MAIN_CLASS_NAME" value="bank.AccountTest" />
+      <option name="METHOD_NAME" value="withdraw10kTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.withdraw1kAndBalanceIs2kTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="techBlazers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bank" />
+      <option name="MAIN_CLASS_NAME" value="bank.AccountTest" />
+      <option name="METHOD_NAME" value="withdraw1kAndBalanceIs2kTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.withdraw1kTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="techBlazers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bank" />
+      <option name="MAIN_CLASS_NAME" value="bank.AccountTest" />
+      <option name="METHOD_NAME" value="withdraw1kTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountTest.BalanceIs2kAndWithdraw1kTest" />
+        <item itemvalue="JUnit.AccountTest.BalanceIs2kTest" />
+        <item itemvalue="JUnit.AccountTest.withdraw1kAndBalanceIs2kTest" />
+        <item itemvalue="JUnit.AccountTest.withdraw1kTest" />
+        <item itemvalue="JUnit.AccountTest.withdraw10kTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcdc06fc-0092-495e-85d0-b94a5f41fb27" name="Changes" comment="" />
+      <created>1724254450323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724254450323</updated>
+      <workItem from="1724254451407" duration="7061000" />
+      <workItem from="1724487884869" duration="204000" />
+      <workItem from="1724488560245" duration="202000" />
+      <workItem from="1724488848383" duration="22000" />
+      <workItem from="1724488966080" duration="24000" />
+      <workItem from="1724489042709" duration="30000" />
+      <workItem from="1724489138101" duration="33000" />
+      <workItem from="1724501402323" duration="38000" />
+      <workItem from="1724545832758" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/bank/AccountTest.java</url>
+          <line>24</line>
+          <properties class="bank.AccountTest" method="depositMinus1kAndBalanceIs2kTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/bank/AccountTest.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
